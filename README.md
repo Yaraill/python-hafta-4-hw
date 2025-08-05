@@ -1,10 +1,10 @@
 # python-hafta-4-hw: Pygame ile Oyun Geliştirme Denemelerim
 
-Bu depo, Python ve **Pygame** kütüphanesi kullanarak geliştirdiğim farklı oyun denemelerimi içermektedir. Projeler, oyun geliştirme temellerini adım adım öğrenmek ve pratik yapmak amacıyla hazırlanmıştır. Her bir dosya, bir önceki adımı geliştirerek yeni bir özellik ekler ve artan bir zorluk seviyesinde ilerler.
+Bu repo, Python ve **Pygame** kütüphanesi kullanarak geliştirdiğim farklı oyun denemelerimi içermektedir. Projeler, oyun geliştirme temellerini adım adım öğrenmek ve pratik yapmak amacıyla hazırlanmıştır. Her bir dosya, bir önceki adımı geliştirerek yeni bir özellik ekler ve artan bir zorluk seviyesinde ilerler.
 
 ## İçerik
 
-Bu depo, temel Pygame özelliklerini keşfetmek için tasarlanmış bir dizi örnek kod dosyasından oluşmaktadır:
+Bu repo, temel Pygame özelliklerini keşfetmek için tasarlanmış bir dizi örnek kod dosyasından oluşmaktadır:
 
 - **`hw_11_ekran_yapma.py`**: Pygame ile temel oyun penceresi oluşturma.
 - **`hw_12_tuslarla_hareket.py`**: Yön tuşlarıyla hareket eden karakter yapma.
